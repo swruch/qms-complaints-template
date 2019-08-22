@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SamlSsoConfig xmlns="http://soap.sforce.com/2006/04/metadata">
+    <identityLocation>SubjectNameId</identityLocation>
+    <identityMapping>FederationId</identityMapping>
+    <issuer>exkcqivqdeXHOq0eT356</issuer>
+    <loginUrl>https://spartasystemsruchi.okta.com/app/salesforce/exkcqivqdeXHOq0eT356/sso/saml</loginUrl>
+    <name>PharmaLogin</name>
+    <oauthTokenEndpoint>https://spartasupppharma.my.salesforce.com/services/oauth2/token?so=00D41000000fiuc</oauthTokenEndpoint>
+    <redirectBinding>true</redirectBinding>
+    <requestSignatureMethod>1</requestSignatureMethod>
+    <requestSigningCertId>0P12M000004C17y</requestSigningCertId>
+    <salesforceLoginUrl>https://spartasupppharma.my.salesforce.com?so=00D41000000fiuc</salesforceLoginUrl>
+    <samlEntityId>https://saml.salesforce.com</samlEntityId>
+    <samlVersion>SAML2_0</samlVersion>
+    <userProvisioning>false</userProvisioning>
+    <validationCert>MIIDtDCCApygAwIBAgIGAWkPKQEYMA0GCSqGSIb3DQEBCwUAMIGaMQswCQYDVQQGEwJVUzETMBEG A1UECAwKQ2FsaWZvcm5pYTEWMBQGA1UEBwwNU2FuIEZyYW5jaXNjbzENMAsGA1UECgwET2t0YTEU MBIGA1UECwwLU1NPUHJvdmlkZXIxGzAZBgNVBAMMEnNwYXJ0YXN5c3RlbXNydWNoaTEcMBoGCSqG SIb3DQEJARYNaW5mb0Bva3RhLmNvbTAeFw0xOTAyMjEwODI0MzlaFw0yOTAyMjEwODI1MzlaMIGa MQswCQYDVQQGEwJVUzETMBEGA1UECAwKQ2FsaWZvcm5pYTEWMBQGA1UEBwwNU2FuIEZyYW5jaXNj bzENMAsGA1UECgwET2t0YTEUMBIGA1UECwwLU1NPUHJvdmlkZXIxGzAZBgNVBAMMEnNwYXJ0YXN5 c3RlbXNydWNoaTEcMBoGCSqGSIb3DQEJARYNaW5mb0Bva3RhLmNvbTCCASIwDQYJKoZIhvcNAQEB BQADggEPADCCAQoCggEBAIxBl1uHGS0Lpdmdkt3ChD8G75Txdm05su6c3Fm6WoThlLm+x9/BDJ4z uHhh+nlDaZ6aYM2q12AmNwJmesrFo0ikaMHeb/ZOD+IGuRki+xNw0Tum74H20ChkhXMcdaoP5V2+ EUPppONlFllkxzYscyVdR4Oo5CsH3wkwh+MdC+WBTaMK4m1QaDix1d8PwrK30a8XrauWyORu8s6y qIaw9N2sUXwMvei5s49IIKe/liQBTFMP8D4v2txFBb3/SjPjUelWqh8ir1hBwrlE90suYTvYqfF8 TndFh27EggO1DgGwUHrX8Kh4nUW/aHic0Vpb+D0wu0E+D+HAixdALlXCe0MCAwEAATANBgkqhkiG 9w0BAQsFAAOCAQEAfgK9JYIE0mYjian+qJ5cJvlmJQYR955B9fhJEDaVBygOpym01f7mNBm2ZzdM 2oMdDuc/LeX4GSb7HKhK8QMTEvXAtu8rN6EFR/sYoSAhkpqG3rYkg9arWEqC6HdrZGZJrQya3NwY q1ROi9wSYwtpT/MKBX5qQn5OUKNJAnLtFC275HbtN1JI+YQyH0LAYRkhRjVWZBa7y2yAto0Rn1US BqQzAL10Hd+4J8ncmQ2BdXlhTUFUyorqTT1hk4vj28y4RzopXrnMNFtsLmX11n9g2wfM+KmCQYaw 1F69OdQJkBzID3EZ2V6DC0HOKpEs6ywh2H6nPW60lopD1bG3LKTG8A==</validationCert>
+</SamlSsoConfig>

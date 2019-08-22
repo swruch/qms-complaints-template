@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AuthProvider xmlns="http://soap.sforce.com/2006/04/metadata">
+    <authorizeUrl>https://uat.stratas.net/idm/realms/sf-00D41000000fiucEAA/protocol/openid-connect/auth</authorizeUrl>
+    <consumerKey>99e5fbd6-d6d3-42bb-833c-d8247bcbe581</consumerKey>
+    <consumerSecret>It5DUD8sxwSNXh2oU3ydl9YqQfwpzjl67j0G0I4s4SpHOh99QLE+ag==</consumerSecret>
+    <friendlyName>SuppFarm</friendlyName>
+    <includeOrgIdInIdentifier>false</includeOrgIdInIdentifier>
+    <providerType>OpenIdConnect</providerType>
+    <sendAccessTokenInHeader>true</sendAccessTokenInHeader>
+    <sendClientCredentialsInHeader>false</sendClientCredentialsInHeader>
+    <tokenUrl>https://uat.stratas.net/idm/realms/sf-00D41000000fiucEAA/protocol/openid-connect/token</tokenUrl>
+    <userInfoUrl>https://uat.stratas.net/idm/realms/sf-00D41000000fiucEAA/protocol/openid-connect/userinfo</userInfoUrl>
+</AuthProvider>

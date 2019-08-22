@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>ruchi.saxena@spartasystems.com</contactEmail>
+    <label>Compliance123test</label>
+    <oauthConfig>
+        <callbackUrl>https://spartasupppharma.my.salesforce.com</callbackUrl>
+        <consumerKey>3MVG9szVa2RxsqBYtlHCjuEB.R5UvK.9yuTBJaNz_RD8iZBT7kmNdceDYQMF51WJ5AzYWErPvLMxqP4tlP5nY</consumerKey>
+        <isAdminApproved>false</isAdminApproved>
+        <scopes>Full</scopes>
+    </oauthConfig>
+</ConnectedApp>
